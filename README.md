@@ -34,7 +34,7 @@ I design, evaluate, and ship AI solutions that solve real operational problems �
 ## 🔨 Featured Projects
 
 ### 🤖 [Agentic Contract Review](https://github.com/OrBarak3/agentic-contract-review)
-Routes customer support emails to LLM auto-answering for low/medium risk cases and to human review for high-risk cases. Built with Python and LangGraph.
+An agentic contract review pipeline built with Python and LangGraph. Ingests contracts, extracts clauses via multi-agent LLMs, classifies risk against a deterministic policy engine, auto-resolves low-risk cases, and routes high-risk clauses to a human review queue — with full audit tracing and business KPI tracking.
 
 ### 🧠 LLM Agentic Tagging *(aiOla — internal)*
 Multi-model annotation pipeline with parallel extraction, field-level agreement scoring, judge-model escalation, and selective human review. Replaced large portions of manual transcript tagging — saving ~$12K/month.
