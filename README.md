@@ -8,11 +8,11 @@ Currently @ [aiOla](https://aiola.com) · Tel Aviv, Israel
 
 ## 🚀 What I Do
 
-I design, evaluate, and ship AI solutions that solve real operational problems — from multi-step LLM pipelines and agentic tagging systems to structured output validation and evaluation frameworks.
+I design, evaluate, and ship AI solutions that solve real operational problems. From multi step LLM pipelines and agentic tagging systems to structured output validation and evaluation frameworks.
 
-- **Saved $12,000/month** by replacing manual annotation with a multi-model AI tagging pipeline
+- **Saved more than $10,000/month** by replacing manual annotation with a multi-model AI tagging pipeline
 - **Reduced turnaround from weeks to minutes** by building LangGraph-based LLM orchestration tools
-- **Built production AI systems** using Claude, Gemini, GPT-4o, structured outputs, and semantic similarity scoring
+- **Built production AI systems** 
 
 ---
 
@@ -41,9 +41,6 @@ Multi-model annotation pipeline with parallel extraction, field-level agreement 
 
 ### 🎙️ ASR Agentic Tagger *(aiOla — internal)*
 Human-in-the-loop pipeline combining Triton ASR n-best outputs with Gemini via OpenRouter. Automatically processes clear transcripts, escalates ambiguous ones to LLM review, and routes edge cases to humans.
-
-### 📊 [NBA LeBron Analysis](https://github.com/OrBarak3/nba-lebron-analysis)
-Regression analysis on LeBron James' performance data using Python — exploring statistical patterns across seasons.
 
 ---
 
