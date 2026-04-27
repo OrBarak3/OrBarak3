@@ -2,7 +2,7 @@
 
 **AI Engineer** building LLM workflows that turn complex business logic into production-grade AI systems.
 
-Currently @ [aiOla](https://aiola.com) · Tel Aviv, Israel
+Currently @ [Wand AI](https://wand.ai/)
 
 ---
 
